@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 import java.util.Scanner;
 
-public class exercicio8{
+public class exercicio9{
 public static void main(String[] args) 
 {
     Scanner entrada = new Scanner(System.in);
